@@ -1,0 +1,16 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Mike Trout",
+      "jersey": 27,
+      "team": "Los Angeles Angels"
+    },
+    {
+      "id": "HmphGoS",
+      "name": "Christian Yelich",
+      "jersey": 0,
+      "team": "Milwaukee Brewers"
+    }
+  ]
+}
